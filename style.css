@@ -63,7 +63,7 @@ main{
     border-radius: 5px;
     cursor: pointer;
   }
-  .gitresult {
+  .resultado {
     display: flex;
     margin-top: 20px;
     align-items: center;
